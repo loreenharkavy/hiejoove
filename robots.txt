@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyiefuigo.2pi.se/sitemap.xml
